@@ -38,6 +38,10 @@ A modular, production-ready framework for fraud detection using advanced metaheu
 
 
 
+3. **Download Datasets**:
+   - Download the required dataset files from [**Google Drive**](https://drive.google.com/drive/folders/1Vja3J6X_K07LN-uXsAilmcI11h1aGVYX?usp=sharing).
+   - Place them inside the `datasets/` folder in the project root.
+
 ## Usage
 
 ### Command Line Interface

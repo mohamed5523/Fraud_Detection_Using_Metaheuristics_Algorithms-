@@ -141,6 +141,8 @@ cython_debug/
 # Project specific
 output/
 logs/
-datasets/
-results/
+datasets/*
+!datasets/.gitkeep
+results/*
+!results/.gitkeep
 _backup/
