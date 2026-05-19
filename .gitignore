@@ -1,3 +1,13 @@
+# venv
+Include/
+Lib/
+Scripts/
+__pycache__/
+pyvenv.cfg
+etc/
+share/
+*.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -141,8 +151,12 @@ cython_debug/
 # Project specific
 output/
 logs/
+Data_Phase/datasets/*
+!Data_Phase/datasets/.gitkeep
+Model_Phase/results/*
+!Model_Phase/results/.gitkeep
 datasets/*
-!datasets/.gitkeep
 results/*
-!results/.gitkeep
 _backup/
+*.csv
+*.pkl
